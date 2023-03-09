@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Package là nơi lưu trữ thư viện khi mình tải về (ví dụ: boostrap, )
+
+### .gitignore là ngăn không cho những thư mục có dung lượng lớn như node_modules lên github
+
+### Flowing:
+
+Khi dùng npm start => mở ra index.html => index.js sẽ DOM tới thẻ div có id là root trong index.html
+(Trong index.js có 1 file app.js thì trong app.js đó sẽ return ra HTML)
+
+### Component:
+
+1.App.js không được gọi là file mà gọi là component
